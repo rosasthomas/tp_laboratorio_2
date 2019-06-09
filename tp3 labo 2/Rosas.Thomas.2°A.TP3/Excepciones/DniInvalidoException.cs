@@ -9,7 +9,7 @@ namespace Excepciones
     public class DniInvalidoException : Exception
     {
         private string mensajeBase;
-        public DniInvalidoException()
+        public DniInvalidoException() : base("El dni no tiene el formato correcto")
         {
             
         }
