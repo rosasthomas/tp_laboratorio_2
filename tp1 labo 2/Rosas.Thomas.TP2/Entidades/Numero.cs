@@ -60,7 +60,7 @@ namespace Entidades
         }
         public string DecimalBinario(string numero)
         {
-            string retorno = "Valor inválido";
+            string retorno = "";
             if (numero != "Valor inválido" && numero != "" && numero != double.MinValue.ToString())
             {
                 int auxNumero = Convert.ToInt32(numero);

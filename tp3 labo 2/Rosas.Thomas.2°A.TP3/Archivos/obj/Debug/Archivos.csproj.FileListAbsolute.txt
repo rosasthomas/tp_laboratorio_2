@@ -1,0 +1,9 @@
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete

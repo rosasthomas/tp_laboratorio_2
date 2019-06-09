@@ -1,0 +1,16 @@
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\SalidaConsola.exe.config
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\SalidaConsola.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\SalidaConsola.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Archivos.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Excepciones.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Archivos.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\bin\Debug\Excepciones.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\obj\Debug\SalidaConsola.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\obj\Debug\SalidaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\obj\Debug\SalidaConsola.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\obj\Debug\SalidaConsola.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp3 labo 2\Rosas.Thomas.2°A.TP3\SalidaConsola\obj\Debug\SalidaConsola.pdb

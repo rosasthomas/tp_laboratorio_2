@@ -4,3 +4,9 @@ C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\Entidades\bin\Debug\Entidad
 C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\Entidades\bin\Debug\Entidades.pdb
 C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\Entidades\obj\Debug\Entidades.dll
 C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\Entidades\obj\Debug\Entidades.pdb
