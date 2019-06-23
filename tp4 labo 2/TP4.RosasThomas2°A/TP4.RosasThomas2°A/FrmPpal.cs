@@ -131,7 +131,18 @@ namespace TP4.RosasThomas2_A
             if (elemento != null)
             {
                 rtbMostrar.Text = elemento.MostrarDatos(elemento);
-                GuardaString.Guardar(rtbMostrar.Text, "salida.txt");
+                try
+                {
+                    if (!GuardaString.Guardar(rtbMostrar.Text, "salida.txt"))
+                    {
+                        throw new Exception("No se han guardado los datos");
+                    }
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show(e.Message);
+                }
+                
             }
         }
 

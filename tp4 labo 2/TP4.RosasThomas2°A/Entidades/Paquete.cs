@@ -50,7 +50,6 @@ namespace Entidades
         {
             this.DireccionEntrega = direccionEntrega;
             this.TrackingID = trackingID;
-            this.Estado = EEstado.Ingresado;
         }
 
         /// <summary>
