@@ -1,0 +1,14 @@
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\bin\Debug\TP4.RosasThomas2°A.exe.config
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\bin\Debug\TP4.RosasThomas2°A.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\bin\Debug\TP4.RosasThomas2°A.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\bin\Debug\Entidades.dll.config
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2°A.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2_A.FrmPpal.resources
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2_A.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2°A.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2°A.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2°A.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2°A.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp4 labo 2\TP4.RosasThomas2°A\TP4.RosasThomas2°A\obj\Debug\TP4.RosasThomas2°A.pdb
