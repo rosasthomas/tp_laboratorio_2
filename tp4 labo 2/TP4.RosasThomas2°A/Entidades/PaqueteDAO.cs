@@ -52,7 +52,6 @@ namespace Entidades
                 conexion.Close();
             }
 
-            //throw new FormatException("Error gato");
             return flag;
         }
 

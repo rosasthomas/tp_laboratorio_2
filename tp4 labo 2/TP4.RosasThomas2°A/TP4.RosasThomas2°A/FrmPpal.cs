@@ -32,17 +32,14 @@ namespace TP4.RosasThomas2_A
             {
                 correo += paquete;
             }
-            catch (Exception exc)
+            catch (TrackingIdRepetidoException tr)
             {
-                if (exc is TrackingIdRepetidoException)
-                {
-                    MessageBox.Show(exc.Message);
-                }
-                else
-                {
-                    MessageBox.Show(exc.Message);
-                }
+                    MessageBox.Show(tr.Message);
                 
+            }
+            catch(Exception exc)
+            {
+                MessageBox.Show(exc.Message);
             }
             finally
             {

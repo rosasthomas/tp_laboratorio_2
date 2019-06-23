@@ -50,6 +50,7 @@ namespace Entidades
         {
             this.DireccionEntrega = direccionEntrega;
             this.TrackingID = trackingID;
+            this.Estado = EEstado.Ingresado;
         }
 
         /// <summary>
@@ -118,10 +119,6 @@ namespace Entidades
                     else if (this.Estado == EEstado.EnViaje)
                     {
                         this.Estado = EEstado.Entregado;
-                    }
-                    else if (this.estado == EEstado.Entregado)
-                    {
-                        this.Estado = EEstado.Ingresado;
                     }
 
                     this.InformaEstado(this, new EventArgs());
