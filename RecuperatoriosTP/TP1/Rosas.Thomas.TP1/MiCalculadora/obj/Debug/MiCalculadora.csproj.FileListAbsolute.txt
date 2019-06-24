@@ -1,0 +1,39 @@
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\gustavo\Desktop\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\tp1 labo 2\Rosas.Thomas.TP2\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\tp_laboratorio_2\RecuperatoriosTP\TP1\Rosas.Thomas.TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
